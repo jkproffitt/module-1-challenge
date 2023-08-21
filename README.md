@@ -12,7 +12,7 @@ This mini-project is Module 1 Challenge for George Washington University Coding 
   
 -   Stackoverflow
   
--   [GW Bootcamp source code] (https://git.bootcampcontent.com/George-Washington-University/GWU-VIRT-FSF-PT-08-2023-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge)
+-   [GW Bootcamp source code](https://git.bootcampcontent.com/George-Washington-University/GWU-VIRT-FSF-PT-08-2023-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge)
   
 -   [MDN Web Docs on HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
