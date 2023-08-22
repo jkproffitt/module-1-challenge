@@ -4,7 +4,7 @@ This mini-project is Module 1 Challenge for George Washington University Coding 
 
 ### to locate source code- ./src/index.html, ./assets/images for photos, & ./assets/css for styling.
 
-To access site please click [here.](https://git.bootcampcontent.com/George-Washington-University/GWU-VIRT-FSF-PT-08-2023-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge](https://jkproffitt.github.io/module-1-challenge/src/index.html )
+To access site please click [here.](https://jkproffitt.github.io/module-1-challenge/src/index.html )
 
 ![Screenshot 2023-08-22 at 5 28 17 PM](https://github.com/jkproffitt/module-1-challenge/assets/62579851/49b48534-fcad-4be8-bb2c-aed2bde1d2ed)
 ![Screenshot 2023-08-22 at 5 29 42 PM](https://github.com/jkproffitt/module-1-challenge/assets/62579851/1ae08eab-60e5-44b5-bafb-1cebc178307b)
