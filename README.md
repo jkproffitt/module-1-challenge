@@ -2,18 +2,22 @@
 
 module-1-challenge, horiseon website
 
-# Code Refactor Starter Code
+## Code Refactor Starter Code
 
 This mini-project is Module 1 Challenge for George Washington University Coding Bootcamp.
 
 ## Resources used to help complete module
 
+-   LearnNBCS provided feedback on how much of the CSS to refector
+
+-   Asked Instructor for feedback as to using sections with divs to divide the instead of using main and aside
+
 -   Google
-  
+
 -   Stackoverflow
-  
+
 -   [GW Bootcamp source code](https://git.bootcampcontent.com/George-Washington-University/GWU-VIRT-FSF-PT-08-2023-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge)
-  
+
 -   [MDN Web Docs on HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 -   [MDN Web Docs on color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
