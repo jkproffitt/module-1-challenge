@@ -1,10 +1,32 @@
 # module-1-challenge
 
-module-1-challenge, horiseon website
-
-## Code Refactor Starter Code
-
 This mini-project is Module 1 Challenge for George Washington University Coding Bootcamp.
+
+To access site please click [here.](https://git.bootcampcontent.com/George-Washington-University/GWU-VIRT-FSF-PT-08-2023-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge](https://jkproffitt.github.io/module-1-challenge/src/index.html ) 
+
+![Screenshot 2023-08-22 at 5 28 17 PM](https://github.com/jkproffitt/module-1-challenge/assets/62579851/49b48534-fcad-4be8-bb2c-aed2bde1d2ed)
+![Screenshot 2023-08-22 at 5 29 42 PM](https://github.com/jkproffitt/module-1-challenge/assets/62579851/1ae08eab-60e5-44b5-bafb-1cebc178307b)
+![Screenshot 2023-08-22 at 5 30 33 PM](https://github.com/jkproffitt/module-1-challenge/assets/62579851/b602f17c-9d56-4871-aca5-99b63bd0ff3a)
+
+
+
+## Acceptance Criteria
+
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+GIVEN a webpage meets accessibility standards
+
+-   WHEN I view the source code
+    THEN I find semantic HTML elements
+-   WHEN I view the structure of the HTML elements
+    THEN I find that the elements follow a logical structure independent of styling and positioning
+-   WHEN I view the image elements
+    THEN I find accessible alt attributes
+-   WHEN I view the heading attributes
+    THEN they fall in sequential order
+-   WHEN I view the title element
+    THEN I find a concise, descriptive title
 
 ## Resources used to help complete module
 
@@ -33,21 +55,3 @@ This mini-project is Module 1 Challenge for George Washington University Coding 
 -   [MDN Web Docs on the figure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 
 -   [Full-Stack Blog HTML Cheatsheet](https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet)
-
-## Acceptance Criteria
-
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-GIVEN a webpage meets accessibility standards
-
--   WHEN I view the source code
-    THEN I find semantic HTML elements
--   WHEN I view the structure of the HTML elements
-    THEN I find that the elements follow a logical structure independent of styling and positioning
--   WHEN I view the image elements
-    THEN I find accessible alt attributes
--   WHEN I view the heading attributes
-    THEN they fall in sequential order
--   WHEN I view the title element
-    THEN I find a concise, descriptive title
